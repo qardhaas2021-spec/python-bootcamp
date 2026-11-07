@@ -1,0 +1,2 @@
+I practiced os and datetime.
+I learned about the file sizes and the modified time.

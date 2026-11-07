@@ -1,0 +1,26 @@
+Open the notebook
+
+Type this one word:
+
+jn
+
+That goes to openai_api, turns the environment on, and opens Jupyter.
+
+Then click: Paractize jupyter.ipynb
+
+cd ~/Desktop/openai_api
+jupyter notebook
+
+If jn is not found, run this once, then type jn again:
+
+source ~/.zshrc
+
+Turn the environment on only (when you are already in the right folder):
+
+venv
+
+Close Jupyter
+
+Press Control+C
+Type y
+Press Enter

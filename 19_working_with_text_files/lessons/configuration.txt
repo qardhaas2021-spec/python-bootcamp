@@ -1,0 +1,2 @@
+this is the file example, who i practise the how to read the file
+there are two ways to get the file

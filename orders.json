@@ -1,0 +1,26 @@
+[
+  {
+    "items": [
+      "apple",
+      "banana",
+      "cherry"
+    ],
+    "total": 100
+  },
+  {
+    "items": [
+      "milk",
+      "bread",
+      "eggs"
+    ],
+    "total": 50
+  },
+  {
+    "items": [
+      "coca",
+      "pepsi",
+      "sprite"
+    ],
+    "total": 20
+  }
+]

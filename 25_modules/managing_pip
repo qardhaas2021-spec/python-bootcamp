@@ -1,0 +1,9 @@
+# Mastring python package managment with pip
+
+# Installing a package: pip install package_name
+
+# Upgrading a package: pip install --upgrade package_name
+
+# Listing installed packages: pip list
+
+# Uninstalling a package: pip uninstall package_name

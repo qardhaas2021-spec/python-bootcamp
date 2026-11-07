@@ -1,0 +1,16 @@
+What is a pandas Series?
+
+A Series is one column of data.
+
+Example: the prices 3, 4, 5, 6.
+
+Each value has a label. The labels start at 0.
+
+0    3
+1    4
+2    5
+3    6
+
+A list holds the numbers. A Series holds the numbers and the labels.
+
+A DataFrame is the whole table. A Series is one column from that table.

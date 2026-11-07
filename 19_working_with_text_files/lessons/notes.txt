@@ -1,0 +1,3 @@
+Hello Python
+I am learning text files
+This line was added later
